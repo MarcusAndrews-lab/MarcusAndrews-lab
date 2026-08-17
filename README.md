@@ -9,14 +9,16 @@
 
 <h2>📜 Scripts</h2>
 
-  
+  - [Batch](https://)
+  - [Bash](https://)
+  - [Ducky](https://)
 
 <h2>📄 Certifications</h2>
   
   - [CompTia A+](https://github.com/MarcusAndrews-lab/PLACEHOLDER)
   - [CompTia Network+](https://github.com/MarcusAndrews-lab/PLACEHOLDER)
   - [CompTia Security+](https://github.com/MarcusAndrews-lab/PLACEHOLDER)
-  - 
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
