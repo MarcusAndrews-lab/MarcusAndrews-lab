@@ -5,7 +5,7 @@
 - <b>Networking Home Lab</b>
   - [Network Change Log](https://github.com/MarcusAndrews-lab/PLACEHOLDER)
 - <b>Servers/Containers</b>
-  - [Proxmox](https://github.com/MarcusAndrews-lab/PLACEHOLDER) <b><i>(Potentially NSFW)</b></i>
+  - [Proxmox](https://github.com/MarcusAndrews-lab/PLACEHOLDER)
 
 <h2>📜 Scripts</h2>
 
