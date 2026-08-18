@@ -3,15 +3,19 @@
 <h2>🖥️ IT/Cybersecurity Projects:</h2>
 
 - <b>Networking Home Lab</b>
-  - [Network Change Log](https://github.com/MarcusAndrews-lab/PLACEHOLDER)
+  - [Network Change Log](https://github.com/MarcusAndrews-lab/Network-Configuration)
 - <b>Servers/Containers</b>
-  - [Proxmox](https://github.com/MarcusAndrews-lab/PLACEHOLDER)
+  - [Proxmox](https://github.com/MarcusAndrews-lab/Proxmox-Server)
 
 <h2>📜 Scripts</h2>
 
   - [Batch](https://)
   - [Bash](https://)
   - [Ducky](https://)
+
+<h2>Repairs, Builds and Hardware</h2>
+
+  - [Macbook air (2012)]
 
 <h2>📄 Certifications</h2>
   
