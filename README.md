@@ -15,7 +15,7 @@
 
 <h2>Repairs, Builds and Hardware</h2>
 
-  - [Macbook air (2012)]
+  - [Macbook air (2012)](https://github.com/MarcusAndrews-lab/Macbook-Air-2012-Repair)
 
 <h2>📄 Certifications</h2>
   
