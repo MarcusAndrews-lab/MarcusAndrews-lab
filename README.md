@@ -15,7 +15,8 @@
 
 <h2>Repairs, Builds and Hardware</h2>
 
-  - [Macbook air (2012)](https://github.com/MarcusAndrews-lab/Macbook-Air-2012-Repair)
+  - [Macbook air (2012)](https://github.com/MarcusAndrews-lab/Repairs/blob/main/Macbook%20Air%20(2012).md)
+  - [AMD GPU Fix](https://github.com/MarcusAndrews-lab/Repairs/blob/main/AMD%20GPU%20Windows%20Fix.md)
 
 <h2>📄 Certifications</h2>
   
