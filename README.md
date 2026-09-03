@@ -11,7 +11,7 @@
 
   - [Batch](https://)
   - [Bash](https://)
-  - [Ducky](https://github.com/MarcusAndrews-lab/In-Progress)
+  - [Ducky](https://github.com/MarcusAndrews-lab/Scripts)
 
 <h2>Repairs, Builds and Hardware</h2>
 
